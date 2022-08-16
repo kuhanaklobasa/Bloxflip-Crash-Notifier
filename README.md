@@ -35,7 +35,7 @@ https://streamable.com/y7o4kr
 
 ## Customising the notification audio
 
-Simply replace the notification.waw with another file. It needs to be named `notification.waw`
+Simply replace the notification.waw with another file. It needs to be named `notification.wav`
 
 ## Contributing
 
